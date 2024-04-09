@@ -1,0 +1,9 @@
+INFO     MainPage:base_page.py:32 ============= Start test: «25/03/2024 19:17:51»
+INFO     MainPage:base_page.py:34 Opening url: «https://demo.opencart.com/»
+INFO     MainPage:base_page.py:39 Finding element: «('xpath', "//span[text()='My Account']")»
+INFO     MainPage:base_page.py:63 Check element is clickable and clicking on element: «('xpath', "//span[text()='My Account']")»
+INFO     MainPage:base_page.py:39 Finding element: «('xpath', "//a[text()='Register']")»
+INFO     MainPage:base_page.py:63 Check element is clickable and clicking on element: «('xpath', "//a[text()='Register']")»
+INFO     MainPage:base_page.py:55 Checking url: «/register»
+INFO     RegistrationPage:base_page.py:83 Send keys: «Nicole»
+INFO     RegistrationPage:base_page.py:39 Finding element: «('xpath', "//input[@id='input-firstname']")»

@@ -1,0 +1,8 @@
+INFO     MainPage:base_page.py:32 ============= Start test: «25/03/2024 19:19:51»
+INFO     MainPage:base_page.py:34 Opening url: «https://demo.opencart.com/»
+INFO     MainPage:base_page.py:39 Finding element: «('xpath', "//a[text()='Tablets']")»
+INFO     MainPage:base_page.py:63 Check element is clickable and clicking on element: «('xpath', "//a[text()='Tablets']")»
+INFO     TabletsPage:base_page.py:39 Finding element: «('xpath', "//button[@aria-label='Add to Cart']")»
+INFO     TabletsPage:base_page.py:63 Check element is clickable and clicking on element: «('xpath', "//button[@aria-label='Add to Cart']")»
+INFO     TabletsPage:base_page.py:88 Checking alert text: «Success: You have added Samsung Galaxy Tab 10.1 to your shopping cart!»
+INFO     TabletsPage:base_page.py:47 Checking element is visible: «('xpath', "//div[contains(@class, 'alert')]")»

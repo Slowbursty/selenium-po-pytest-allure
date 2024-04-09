@@ -1,0 +1,9 @@
+INFO     MainPage:base_page.py:32 ============= Start test: «25/03/2024 19:14:25»
+INFO     MainPage:base_page.py:34 Opening url: «https://demo.opencart.com/»
+INFO     MainPage:base_page.py:39 Finding element: «('xpath', "//a[text()='Desktops']")»
+INFO     MainPage:base_page.py:63 Check element is clickable and clicking on element: «('xpath', "//a[text()='Desktops']")»
+INFO     MainPage:base_page.py:39 Finding element: «('xpath', '//body')»
+INFO     MainPage:base_page.py:63 Check element is clickable and clicking on element: «('xpath', '//body')»
+INFO     MainPage:base_page.py:39 Finding element: «('xpath', "(//a[text()='PC (0)'])[2]")»
+INFO     MainPage:base_page.py:63 Check element is clickable and clicking on element: «('xpath', "(//a[text()='PC (0)'])[2]")»
+INFO     CategoryPage:base_page.py:39 Finding element: «('xpath', "//h2[text()='PC']//following-sibling::p")»

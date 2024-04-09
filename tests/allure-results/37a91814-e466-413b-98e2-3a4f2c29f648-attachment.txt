@@ -1,0 +1,23 @@
+INFO     MainPage:base_page.py:32 ============= Start test: «25/03/2024 19:17:32»
+INFO     MainPage:base_page.py:34 Opening url: «https://demo.opencart.com/»
+INFO     MainPage:base_page.py:39 Finding element: «('xpath', "//span[text()='My Account']")»
+INFO     MainPage:base_page.py:63 Check element is clickable and clicking on element: «('xpath', "//span[text()='My Account']")»
+INFO     MainPage:base_page.py:39 Finding element: «('xpath', "//a[text()='Register']")»
+INFO     MainPage:base_page.py:63 Check element is clickable and clicking on element: «('xpath', "//a[text()='Register']")»
+INFO     MainPage:base_page.py:55 Checking url: «/register»
+INFO     RegistrationPage:base_page.py:83 Send keys: «Amy»
+INFO     RegistrationPage:base_page.py:39 Finding element: «('xpath', "//input[@id='input-firstname']")»
+INFO     RegistrationPage:base_page.py:83 Send keys: «Jackson»
+INFO     RegistrationPage:base_page.py:39 Finding element: «('xpath', "//input[@id='input-lastname']")»
+INFO     RegistrationPage:base_page.py:83 Send keys: «krasmussen@example.com»
+INFO     RegistrationPage:base_page.py:39 Finding element: «('xpath', "//input[@id='input-email']")»
+INFO     RegistrationPage:base_page.py:83 Send keys: «g*$G7(LxAS»
+INFO     RegistrationPage:base_page.py:39 Finding element: «('xpath', "//input[@id='input-password']")»
+INFO     RegistrationPage:base_page.py:39 Finding element: «('xpath', "//input[@class='form-check-input']")»
+INFO     RegistrationPage:base_page.py:63 Check element is clickable and clicking on element: «('xpath', "//input[@class='form-check-input']")»
+INFO     RegistrationPage:base_page.py:39 Finding element: «('xpath', "//button[@type='submit']")»
+INFO     RegistrationPage:base_page.py:63 Check element is clickable and clicking on element: «('xpath', "//button[@type='submit']")»
+INFO     RegistrationPage:base_page.py:39 Finding element: «('xpath', "//input[@id='input-firstname']")»
+INFO     RegistrationPage:base_page.py:39 Finding element: «('xpath', "//input[@id='input-lastname']")»
+INFO     RegistrationPage:base_page.py:39 Finding element: «('xpath', "//input[@id='input-email']")»
+INFO     RegistrationPage:base_page.py:39 Finding element: «('xpath', "//input[@id='input-password']")»

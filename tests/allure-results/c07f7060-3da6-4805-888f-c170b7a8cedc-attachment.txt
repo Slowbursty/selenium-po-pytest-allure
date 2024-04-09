@@ -1,0 +1,10 @@
+INFO     MainPage:base_page.py:32 ============= Start test: «25/03/2024 19:19:04»
+INFO     MainPage:base_page.py:34 Opening url: «https://demo.opencart.com/»
+INFO     MainPage:base_page.py:39 Finding element: «('xpath', "//img[@title='MacBook']//parent::a")»
+INFO     MainPage:base_page.py:63 Check element is clickable and clicking on element: «('xpath', "//img[@title='MacBook']//parent::a")»
+INFO     ProductPage:base_page.py:39 Finding element: «('xpath', "//img[@title='MacBook']//parent::a")»
+INFO     ProductPage:base_page.py:63 Check element is clickable and clicking on element: «('xpath', "//img[@title='MacBook']//parent::a")»
+INFO     ProductPage:base_page.py:55 Checking url: «https://demo.opencart.com/image/cache/catalog/demo/macbook_1-800x800.jpg»
+INFO     ProductPage:base_page.py:47 Checking element is visible: «('xpath', "//body/img[contains(@src, 'macbook_1')]")»
+INFO     ProductPage:base_page.py:73 Browser back
+INFO     ProductPage:base_page.py:39 Finding element: «('xpath', "//img[@title='MacBook']//parent::a")»

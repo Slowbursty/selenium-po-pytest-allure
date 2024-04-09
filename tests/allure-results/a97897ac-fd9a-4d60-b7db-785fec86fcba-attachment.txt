@@ -1,0 +1,15 @@
+INFO     MainPage:base_page.py:32 ============= Start test: «25/03/2024 19:15:00»
+INFO     MainPage:base_page.py:34 Opening url: «https://demo.opencart.com/»
+INFO     MainPage:base_page.py:78 Browser refresh
+INFO     MainPage:base_page.py:78 Browser refresh
+INFO     MainPage:base_page.py:78 Browser refresh
+INFO     MainPage:base_page.py:39 Finding element: «('xpath', "//span[contains(., 'Currency')]/following-sibling::i")»
+INFO     MainPage:base_page.py:39 Finding element: «('xpath', "//span[contains(., 'Currency')]/following-sibling::i")»
+INFO     MainPage:base_page.py:63 Check element is clickable and clicking on element: «('xpath', "//span[contains(., 'Currency')]/following-sibling::i")»
+INFO     MainPage:base_page.py:39 Finding element: «('xpath', "//ul[@class='dropdown-menu show']")»
+INFO     MainPage:base_page.py:39 Finding element: «('xpath', "//a[contains(text(), 'Euro')]")»
+INFO     MainPage:base_page.py:63 Check element is clickable and clicking on element: «('xpath', "//a[contains(text(), 'Euro')]")»
+INFO     MainPage:base_page.py:39 Finding element: «('xpath', "//span[@class='price-new']")»
+INFO     MainPage:base_page.py:39 Finding element: «('xpath', "//a[contains(text(), 'US Dollar')]")»
+INFO     MainPage:base_page.py:63 Check element is clickable and clicking on element: «('xpath', "//a[contains(text(), 'US Dollar')]")»
+INFO     MainPage:base_page.py:39 Finding element: «('xpath', "//span[@class='price-new']")»

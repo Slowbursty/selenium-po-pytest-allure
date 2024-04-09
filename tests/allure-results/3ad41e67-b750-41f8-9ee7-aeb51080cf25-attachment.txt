@@ -1,0 +1,11 @@
+INFO     MainPage:base_page.py:32 ============= Start test: «25/03/2024 19:12:42»
+INFO     MainPage:base_page.py:34 Opening url: «https://demo.opencart.com/»
+INFO     MainPage:base_page.py:39 Finding element: «('xpath', "//a[text()='Cameras']")»
+INFO     MainPage:base_page.py:63 Check element is clickable and clicking on element: «('xpath', "//a[text()='Cameras']")»
+INFO     CamerasPage:base_page.py:39 Finding element: «('xpath', "//a[text()='Nikon D300']")»
+INFO     CamerasPage:base_page.py:63 Check element is clickable and clicking on element: «('xpath', "//a[text()='Nikon D300']")»
+INFO     ProductPage:base_page.py:78 Browser refresh
+INFO     ProductPage:base_page.py:39 Finding element: «('xpath', "//button[text()='Add to Cart']")»
+INFO     ProductPage:base_page.py:63 Check element is clickable and clicking on element: «('xpath', "//button[text()='Add to Cart']")»
+INFO     ProductPage:base_page.py:88 Checking alert text: «Success: You have added Nikon D300 to your shopping cart!»
+INFO     ProductPage:base_page.py:47 Checking element is visible: «('xpath', "//div[contains(@class, 'alert')]")»

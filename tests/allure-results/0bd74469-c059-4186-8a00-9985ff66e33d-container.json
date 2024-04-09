@@ -1,0 +1,36 @@
+{
+  "uuid": "58beae31-2320-499e-9e65-513651526870",
+  "children": [
+    "499faf99-0bf3-4395-933c-fbd94e238714"
+  ],
+  "befores": [
+    {
+      "name": "browser",
+      "status": "passed",
+      "start": 1711383184584,
+      "stop": 1711383186187
+    }
+  ],
+  "afters": [
+    {
+      "name": "browser::0",
+      "status": "passed",
+      "attachments": [
+        {
+          "name": "screenshot",
+          "source": "ee03317c-2792-4afc-8a84-fa5a096d758b-attachment.png",
+          "type": "image/png"
+        },
+        {
+          "name": "page_source",
+          "source": "832802c5-49e4-4082-ae69-1bc9300d098f-attachment.html",
+          "type": "text/html"
+        }
+      ],
+      "start": 1711383229026,
+      "stop": 1711383231392
+    }
+  ],
+  "start": 1711383184584,
+  "stop": 1711383231392
+}

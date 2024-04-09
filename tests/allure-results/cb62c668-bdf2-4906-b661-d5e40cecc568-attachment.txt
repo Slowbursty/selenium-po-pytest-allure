@@ -1,0 +1,8 @@
+INFO     MainPage:base_page.py:32 ============= Start test: «25/03/2024 19:20:55»
+INFO     MainPage:base_page.py:34 Opening url: «https://demo.opencart.com/»
+INFO     MainPage:base_page.py:39 Finding element: «('xpath', "//a[text()='Phones & PDAs']")»
+INFO     MainPage:base_page.py:63 Check element is clickable and clicking on element: «('xpath', "//a[text()='Phones & PDAs']")»
+INFO     PhonesAndPdaPage:base_page.py:39 Finding element: «('xpath', "//a[text()='HTC Touch HD']")»
+INFO     PhonesAndPdaPage:base_page.py:63 Check element is clickable and clicking on element: «('xpath', "//a[text()='HTC Touch HD']")»
+INFO     ProductPage:base_page.py:78 Browser refresh
+INFO     ProductPage:base_page.py:39 Finding element: «('xpath', "//button[@aria-label='Add to Wish List']")»
