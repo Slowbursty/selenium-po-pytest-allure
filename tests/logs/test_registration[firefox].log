@@ -1,0 +1,32 @@
+============= Start test: «25/03/2024 19:17:32»
+Opening url: «https://demo.opencart.com/»
+Finding element: «('xpath', "//span[text()='My Account']")»
+Check element is clickable and clicking on element: «('xpath', "//span[text()='My Account']")»
+Finding element: «('xpath', "//a[text()='Register']")»
+Check element is clickable and clicking on element: «('xpath', "//a[text()='Register']")»
+Checking url: «/register»
+Send keys: «Amy»
+Finding element: «('xpath', "//input[@id='input-firstname']")»
+Send keys: «Jackson»
+Finding element: «('xpath', "//input[@id='input-lastname']")»
+Send keys: «krasmussen@example.com»
+Finding element: «('xpath', "//input[@id='input-email']")»
+Send keys: «g*$G7(LxAS»
+Finding element: «('xpath', "//input[@id='input-password']")»
+Finding element: «('xpath', "//input[@class='form-check-input']")»
+Check element is clickable and clicking on element: «('xpath', "//input[@class='form-check-input']")»
+Finding element: «('xpath', "//button[@type='submit']")»
+Check element is clickable and clicking on element: «('xpath', "//button[@type='submit']")»
+Finding element: «('xpath', "//input[@id='input-firstname']")»
+Finding element: «('xpath', "//input[@id='input-lastname']")»
+Finding element: «('xpath', "//input[@id='input-email']")»
+Finding element: «('xpath', "//input[@id='input-password']")»
+============= Start test: «25/03/2024 19:17:51»
+Opening url: «https://demo.opencart.com/»
+Finding element: «('xpath', "//span[text()='My Account']")»
+Check element is clickable and clicking on element: «('xpath', "//span[text()='My Account']")»
+Finding element: «('xpath', "//a[text()='Register']")»
+Check element is clickable and clicking on element: «('xpath', "//a[text()='Register']")»
+Checking url: «/register»
+Send keys: «Nicole»
+Finding element: «('xpath', "//input[@id='input-firstname']")»

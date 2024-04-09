@@ -1,0 +1,4 @@
+============= Start test: «25/03/2024 19:18:30»
+Opening url: «https://demo.opencart.com/»
+Finding element: «('xpath', "//input[@placeholder='Search']/following-sibling::button")»
+Check element is clickable and clicking on element: «('xpath', "//input[@placeholder='Search']/following-sibling::button")»

@@ -1,0 +1,8 @@
+============= Start test: «25/03/2024 19:13:06»
+Opening url: «https://demo.opencart.com/»
+Finding element: «('xpath', "//a[text()='Cameras']")»
+Check element is clickable and clicking on element: «('xpath', "//a[text()='Cameras']")»
+Finding element: «('xpath', "//a[text()='Nikon D300']")»
+Check element is clickable and clicking on element: «('xpath', "//a[text()='Nikon D300']")»
+Browser refresh
+Finding element: «('xpath', "//button[text()='Add to Cart']")»

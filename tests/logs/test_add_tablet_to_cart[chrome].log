@@ -1,0 +1,8 @@
+============= Start test: «25/03/2024 19:20:03»
+Opening url: «https://demo.opencart.com/»
+Finding element: «('xpath', "//a[text()='Tablets']")»
+Check element is clickable and clicking on element: «('xpath', "//a[text()='Tablets']")»
+Finding element: «('xpath', "//button[@aria-label='Add to Cart']")»
+Check element is clickable and clicking on element: «('xpath', "//button[@aria-label='Add to Cart']")»
+Checking alert text: «Success: You have added Samsung Galaxy Tab 10.1 to your shopping cart!»
+Checking element is visible: «('xpath', "//div[contains(@class, 'alert')]")»

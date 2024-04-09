@@ -1,0 +1,51 @@
+============= Start test: «25/03/2024 19:16:09»
+Opening url: «https://demo.opencart.com/»
+Finding element: «('xpath', "//a[text()='Phones & PDAs']")»
+Check element is clickable and clicking on element: «('xpath', "//a[text()='Phones & PDAs']")»
+Finding element: «('xpath', "//a[text()='HTC Touch HD']")»
+Check element is clickable and clicking on element: «('xpath', "//a[text()='HTC Touch HD']")»
+Browser refresh
+Finding element: «('xpath', "//button[text()='Add to Cart']")»
+Check element is clickable and clicking on element: «('xpath', "//button[text()='Add to Cart']")»
+Checking alert text: «Success: You have added HTC Touch HD to your shopping cart!»
+Checking element is visible: «('xpath', "//div[contains(@class, 'alert')]")»
+============= Start test: «25/03/2024 19:16:40»
+Opening url: «https://demo.opencart.com/»
+Finding element: «('xpath', "//a[text()='Phones & PDAs']")»
+Check element is clickable and clicking on element: «('xpath', "//a[text()='Phones & PDAs']")»
+Finding element: «('xpath', "//a[text()='HTC Touch HD']")»
+Check element is clickable and clicking on element: «('xpath', "//a[text()='HTC Touch HD']")»
+Browser refresh
+Finding element: «('xpath', "//button[text()='Add to Cart']")»
+Check element is clickable and clicking on element: «('xpath', "//button[text()='Add to Cart']")»
+Checking alert text: «Success: You have added HTC Touch HD to your shopping cart!»
+Checking element is visible: «('xpath', "//div[contains(@class, 'alert')]")»
+============= Start test: «25/03/2024 19:21:51»
+Opening url: «https://demo.opencart.com/»
+Finding element: «('xpath', "//a[text()='Phones & PDAs']")»
+Check element is clickable and clicking on element: «('xpath', "//a[text()='Phones & PDAs']")»
+Finding element: «('xpath', "//a[text()='HTC Touch HD']")»
+Check element is clickable and clicking on element: «('xpath', "//a[text()='HTC Touch HD']")»
+Finding element: «('xpath', "//a[contains(text(), 'Reviews')]")»
+Check element is clickable and clicking on element: «('xpath', "//a[contains(text(), 'Reviews')]")»
+Send keys: «DemoReviewer»
+Finding element: «('xpath', "//input[@id='input-name']")»
+Send keys: «Exactly serve sure best have thank. Be forward may choose fear difficult total open.»
+Finding element: «('xpath', "//textarea[@id='input-text']")»
+Check element is clickable and clicking on element: «('xpath', "//input[@value='3']")»
+Check element is clickable and clicking on element: «('xpath', "//button[@id='button-review']")»
+Checking alert text: «Thank you for your review. It has been submitted to the webmaster for approval.»
+Checking element is visible: «('xpath', "//div[contains(@class, 'alert')]")»
+============= Start test: «25/03/2024 19:22:04»
+Opening url: «https://demo.opencart.com/»
+Finding element: «('xpath', "//a[text()='Phones & PDAs']")»
+Check element is clickable and clicking on element: «('xpath', "//a[text()='Phones & PDAs']")»
+Finding element: «('xpath', "//a[text()='HTC Touch HD']")»
+Check element is clickable and clicking on element: «('xpath', "//a[text()='HTC Touch HD']")»
+Finding element: «('xpath', "//a[contains(text(), 'Reviews')]")»
+Check element is clickable and clicking on element: «('xpath', "//a[contains(text(), 'Reviews')]")»
+Send keys: «DemoReviewer»
+Finding element: «('xpath', "//input[@id='input-name']")»
+Send keys: «Now partner stuff phone work. Around course field behavior hope night.»
+Finding element: «('xpath', "//textarea[@id='input-text']")»
+Check element is clickable and clicking on element: «('xpath', "//input[@value='3']")»

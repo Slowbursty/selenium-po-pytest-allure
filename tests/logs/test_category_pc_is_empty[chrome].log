@@ -1,0 +1,9 @@
+============= Start test: «25/03/2024 19:14:25»
+Opening url: «https://demo.opencart.com/»
+Finding element: «('xpath', "//a[text()='Desktops']")»
+Check element is clickable and clicking on element: «('xpath', "//a[text()='Desktops']")»
+Finding element: «('xpath', '//body')»
+Check element is clickable and clicking on element: «('xpath', '//body')»
+Finding element: «('xpath', "(//a[text()='PC (0)'])[2]")»
+Check element is clickable and clicking on element: «('xpath', "(//a[text()='PC (0)'])[2]")»
+Finding element: «('xpath', "//h2[text()='PC']//following-sibling::p")»

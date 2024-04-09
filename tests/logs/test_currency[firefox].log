@@ -1,0 +1,28 @@
+============= Start test: «25/03/2024 19:15:00»
+Opening url: «https://demo.opencart.com/»
+Browser refresh
+Browser refresh
+Browser refresh
+Finding element: «('xpath', "//span[contains(., 'Currency')]/following-sibling::i")»
+Finding element: «('xpath', "//span[contains(., 'Currency')]/following-sibling::i")»
+Check element is clickable and clicking on element: «('xpath', "//span[contains(., 'Currency')]/following-sibling::i")»
+Finding element: «('xpath', "//ul[@class='dropdown-menu show']")»
+Finding element: «('xpath', "//a[contains(text(), 'Euro')]")»
+Check element is clickable and clicking on element: «('xpath', "//a[contains(text(), 'Euro')]")»
+Finding element: «('xpath', "//span[@class='price-new']")»
+Finding element: «('xpath', "//a[contains(text(), 'US Dollar')]")»
+Check element is clickable and clicking on element: «('xpath', "//a[contains(text(), 'US Dollar')]")»
+Finding element: «('xpath', "//span[@class='price-new']")»
+============= Start test: «25/03/2024 19:15:22»
+Opening url: «https://demo.opencart.com/»
+Browser refresh
+Browser refresh
+Browser refresh
+Finding element: «('xpath', "//span[contains(., 'Currency')]/following-sibling::i")»
+Finding element: «('xpath', "//ul[@class='dropdown-menu show']")»
+Finding element: «('xpath', "//a[contains(text(), 'Euro')]")»
+Check element is clickable and clicking on element: «('xpath', "//a[contains(text(), 'Euro')]")»
+Finding element: «('xpath', "//span[@class='price-new']")»
+Finding element: «('xpath', "//a[contains(text(), 'US Dollar')]")»
+Check element is clickable and clicking on element: «('xpath', "//a[contains(text(), 'US Dollar')]")»
+Finding element: «('xpath', "//span[@class='price-new']")»
